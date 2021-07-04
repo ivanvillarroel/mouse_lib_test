@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+.DS_Store
+env
+.env
+.vim
+**/__pycache__/**
+*.pyc
+mail_helper.py
